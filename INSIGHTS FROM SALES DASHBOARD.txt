@@ -1,0 +1,6 @@
+INSIGHTS FROM SALES DASHBOARD:
+
+1. The Technology category had the highest total sales, contributing 36.59% of overall revenue.
+2. The West region outperformed all others in terms of sales, especially during peak months.
+3. Sales showed a consistent decline from 2018 onwards, with noticeable drops after early 2017.
+4. Office Supplies contributed the least in total sales, around 31.19%.
